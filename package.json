@@ -1,0 +1,14 @@
+{
+  "name": "robomindtech",
+  "version": "1.0.0",
+  "description": "RoboMindTech homepage",
+  "main": "server.js",
+  "repository": "git@github.com/omgimanerd/robomindtech",
+  "author": "Alvin Lin (alvin@omgimanerd.tech)",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.2",
+    "pug": "^2.0.0-rc.4"
+  }
+}

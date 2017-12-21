@@ -1,0 +1,9 @@
+/** Main stylesheet */
+
+.nav-mini-text {
+  font-size: 16px;
+}
+
+.homepage-parallax {
+  background-image: url('/client/img/bg.png');
+}
