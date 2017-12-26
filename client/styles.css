@@ -7,3 +7,11 @@
 .homepage-parallax {
   background-image: url('/client/img/bg.png');
 }
+
+.homepage-content {
+  font-size: 18px;
+}
+
+.homepage-content img {
+  width: 80%;
+}
