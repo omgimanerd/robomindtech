@@ -5,7 +5,7 @@
 }
 
 .homepage-parallax {
-  background-image: url('/client/img/bg.png');
+  background-image: url('/client/img/bg.jpg');
 }
 
 .homepage-content {
@@ -14,4 +14,8 @@
 
 .homepage-content img {
   width: 80%;
+}
+
+.about-people img {
+  width: 100%;
 }
