@@ -19,3 +19,7 @@
 .about-people img {
   width: 100%;
 }
+
+footer a {
+  color: black !important;
+}
